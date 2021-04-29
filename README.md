@@ -1,2 +1,3 @@
 # hello_word
-The greatest code in the whole world!
+
+This is my first step to use github, I hope it would not be so hard for me.
